@@ -52,7 +52,7 @@
 
 Хочешь заказать мод или сайт? Пиши в Telegram — отвечу!
 
-[![Telegram](https://img.shields.io/badge/Telegram-@lis1noktys-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeVedoGit)
+[![Telegram](https://img.shields.io/badge/Telegram-@DeVedoGit-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeVedoGit)
 
 </div>
 
