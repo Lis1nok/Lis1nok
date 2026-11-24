@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/cGQLyslXKAEAAAAC/fire-force.gif" width="100%" alt="banner">
 </div>
 
-# 👋 Привет, я Lis1nok
+# 👋 Привет, я DeVedo
 
 ### 💻 Java-разработчик · 🌐 HTML-верстальщик
 
@@ -52,7 +52,7 @@
 
 Хочешь заказать мод или сайт? Пиши в Telegram — отвечу!
 
-[![Telegram](https://img.shields.io/badge/Telegram-@lis1noktys-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lis1noktys)
+[![Telegram](https://img.shields.io/badge/Telegram-@lis1noktys-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeVedoGit)
 
 </div>
 
@@ -80,4 +80,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Я добри лис🦊
