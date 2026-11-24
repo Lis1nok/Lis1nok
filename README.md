@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://media1.tenor.com/m/cGQLyslXKAEAAAAC/fire-force.gif" width="100%" alt="banner">
+</div>
 
 # 👋 Привет, я Lis1nok
 
